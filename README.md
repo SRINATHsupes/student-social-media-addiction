@@ -19,6 +19,9 @@ README.md
 dataclean_eda.ipynb
 world_map.ipynb
 dashboard_code.ipynb
+train addiction model.py
+smb prediction model.py
+smb.zip (dataset)
 
 
 in world_map.ipynb
@@ -46,10 +49,13 @@ used
 - Pandas
 - Folium
 - Jupyter (for EDA)
+- RandomForestClassifier
 
 imports 
 pandas 
 folium 
 dash
+Randome Forest 
+sci-learn kit 
 
 
